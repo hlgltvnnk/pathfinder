@@ -1,7 +1,6 @@
 # Pathfinder
 
 A program that helps you find the shortest way to your destination.
-
 Developed as study assignment in the Ucode school.
 
 ## Description:
